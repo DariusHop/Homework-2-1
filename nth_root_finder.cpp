@@ -1,5 +1,7 @@
 /****
 * PSEUDOCODE:
+print nth root is 
+with numbers 47, 2 and 2
 *
 */
 #include <iostream>
