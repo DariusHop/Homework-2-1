@@ -1,7 +1,7 @@
 #ifndef SEARCH_H
 #define SEARCH_H
 
-int LinearSearch(int[], int, int);
-int BinarySearch(int[], int, int);
+int LinearSearch(int list[], int array_length, int number);
+int BinarySearch(int list[], int array_length, int number);
 
 #endif

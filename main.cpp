@@ -8,5 +8,5 @@ int main() {
   
   std::cout << "Linear Search: " << LinearSearch(list,array_length,number) <<  std::endl;
 
-  std::cout << "Binar Search: " << BinarySearch(list,array_length,number) <<  std::endl;
+  std::cout << "Binary Search: " << BinarySearch(list,array_length,number) <<  std::endl;
 }
